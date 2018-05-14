@@ -32,7 +32,6 @@ C++:
             		while(i<s.size() && s[i] != ' '){
                 		i++;
             		}
-            
         		}
         		return count;
     		}
